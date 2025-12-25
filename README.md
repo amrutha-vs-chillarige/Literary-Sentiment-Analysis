@@ -113,10 +113,14 @@ literature_project/
 
 
 
+## Notes
+
+This project was designed to demonstrate skills in Python, NLP, data cleaning, and visual storytelling.  
+The focus is on clarity, interpretability, and meaningful comparison rather than exhaustive literary theory.
+
+
+
 ## Author
 Amrutha Venkata Sai Chillarige
 🔗 LinkedIn: www.linkedin.com/in/amrutha-vs-chillarige
 
-
-This project was designed to demonstrate skills in Python, NLP, data cleaning, and visual storytelling.  
-The focus is on clarity, interpretability, and meaningful comparison rather than exhaustive literary theory.
