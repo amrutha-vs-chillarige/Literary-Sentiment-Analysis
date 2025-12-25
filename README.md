@@ -47,8 +47,8 @@ For each book, the following features were calculated:
 The final dataset was exported as a single CSV file for visualization.
 
 
-Raw and cleaned text files are not included in this repository due to size constraints.
-All analysis is reproducible using the provided scripts and source links.
+#### Raw and cleaned text files are not included in this repository due to size constraints.
+#### All analysis is reproducible using the provided scripts and source links.
 
 
 ## Dashboard Overview
